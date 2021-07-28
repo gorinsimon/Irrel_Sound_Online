@@ -1,0 +1,32 @@
+{
+    "id": "E5C307B2",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1627481371116.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "final_mat",
+        "caption": "final_mat",
+        "totalObservations": 302,
+        "displayedObservations": 302,
+        "variables": 25,
+        "cacheKey": "07B7F05C",
+        "object": "final_mat",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=final_mat&cache_key=07B7F05C&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1627480649,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1627481371116,
+    "read_only": false,
+    "read_only_alternatives": []
+}
