@@ -1,6 +1,6 @@
 # README
 
-This repository is associated to the study entitled *Auditory Distraction Can Be Studied Online! A Direct Comparison Between In-Person and Online Experimentation* and submitted to the *Journal of Cognitive Psychology*. The repository contains five different folders and a main script called `data_processing.R` that can be used to reproduced the analysis and figures reported in the manuscript.
+This repository is associated to the study entitled *Auditory Distraction Can Be Studied Online! A Direct Comparison Between In-Person and Online Experimentation* and submitted to the *Journal of Cognitive Psychology*. The repository contains five different folders and a main script called `data_processing.R` that can be used to reproduce the analyses and figures reported in the manuscript.
 
 The folder `1_material` contains the experimental task saved as a .json file created with lab.js ([https://lab.js.org/](https://lab.js.org/)). The folder stimuli contains the audio files named after the letter they correspond to (e.g., a.wav is the sound file palying the spoken letter A) and `sil.wav` is a silent audio file.
 
