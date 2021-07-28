@@ -1,6 +1,6 @@
 # Data dictionary
 
-**The format corresponds to the format once the data have been loaded using the `col_spec.R` script in the `2_codes` folder**. Part of the description has been done using the default variable description provided by lab.js ([https://labjs.readthedocs.io/en/latest/reference/data%20format.html#default-columns](https://labjs.readthedocs.io/en/latest/reference/data%20format.html#default-columns)).
+**The format corresponds to the format once the data have been loaded using the `col_spec.R` script in the `3_codes` folder**. Part of the description has been done using the default variable description provided by lab.js ([https://labjs.readthedocs.io/en/latest/reference/data%20format.html#default-columns](https://labjs.readthedocs.io/en/latest/reference/data%20format.html#default-columns)).
 
 + `headphone_check_performance`
     + *description*: whether the participant pass the check (1) or not (0)
